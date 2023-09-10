@@ -1,5 +1,5 @@
 import turtle #sử dụng hàm lớp để vẽ đồ họa
-colors = ['red','purple','blue','green','green','yellow','orange']
+colors = ['red','purple','orange','green','yellow','blue']
     #chọn màu
 t = turtle.Pen()
 #đối tượng này dùng để vẽ
